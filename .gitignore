@@ -1,0 +1,10 @@
+*/__pycache__/*
+.vscode
+.vscode/*
+code1.exe
+code2.exe
+code1.cpp
+code2.cpp
+*.pyc
+result.txt
+*.out
