@@ -41,12 +41,6 @@ Lưu ý:
 
 Ví dụ:
 
-<style>
-table {
-    text-align: center;
-}
-</style>
-
 <table><thead>
     <tr>
         <th>You</th>
