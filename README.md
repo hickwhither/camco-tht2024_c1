@@ -13,7 +13,7 @@ Hai đội xuất phát tại hai vị trí (40, 1) và (40, 40). Trong t bướ
 
 Đội có số điểm lớn nhất sẽ chiến thắng
 
-###(***Những điều được liệt kê dưới đây không phải là kì thi chính thức***)
+### (***Những điều được liệt kê dưới đây không phải là kì thi chính thức***)
 ## Xây dựng chương trình
 
 Đây là một dạng bài interactive
