@@ -15,6 +15,7 @@ Hai đội xuất phát tại hai vị trí (40, 1) và (40, 40). Trong t bướ
 
 ### Xây dựng chương trình
 (***Những điều được liệt kê dưới đây không phải là kì thi chính thức***)
+
 Đây là một dạng bài interactive
 
 Trước khi trận đấu bắt đầu, bạn nhận được một chuỗi `UP` hoặc `DOWN` trên một dòng tương ứng với vị trị bắt đầu (40, 1) (40, 40)
