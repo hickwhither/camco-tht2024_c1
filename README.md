@@ -1,6 +1,6 @@
 # Thử mô phỏng lại trò chơi "Cắm cờ" THT toàn quốc bảng C1
 
-### Tổng quan đề
+## Tổng quan đề
 Trò chơi “Cắm cờ” là trò chơi đối kháng cho hai đội
 
 Game Master sẽ chuẩn bị một mê cung 40x40, với các cột/hàng đánh số từ 1 đến 40
@@ -13,8 +13,8 @@ Hai đội xuất phát tại hai vị trí (40, 1) và (40, 40). Trong t bướ
 
 Đội có số điểm lớn nhất sẽ chiến thắng
 
-### Xây dựng chương trình
-(***Những điều được liệt kê dưới đây không phải là kì thi chính thức***)
+###(***Những điều được liệt kê dưới đây không phải là kì thi chính thức***)
+## Xây dựng chương trình
 
 Đây là một dạng bài interactive
 
@@ -112,7 +112,7 @@ table {
 </table>
 
 
-### `fight.py`
+## `fight.py`
 Lưu file code của hai đội trong file `code1.cpp` và `code2.cpp`
 
 Sau khi chạy chương trình python, điểm và kết quả của của hai đội sẽ được hiển thị
